@@ -1,0 +1,10 @@
+{
+  "name": "tsdev",
+  "version": "1.0.0",
+  "description": "TS Playground",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.1.3"
+  }
+}
